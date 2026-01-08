@@ -4,9 +4,9 @@ import "fmt"
 
 func main() {
 	fmt.Println("UTS Pemrograman Golang Matematika Diskrit - Paket 17")
-	fmt.Println("STMIK Tazkia - Semester Ganjil 2025/2026")
+	fmt.Println("STMIK Tazkia - Prodi Teknik Informatika - Semester Ganjil 2025/2026")
 	fmt.Println("Oleh: Muhammad Yahya Ayyasy dan Rizwan Defriansyah")
-	fmt.Println("NIM : ")
+	fmt.Println("NIM : 251552010054 dan 251552010002")
 	fmt.Println("===========================================\n")
 
 	// Parameter Paket 17 dari tabel
